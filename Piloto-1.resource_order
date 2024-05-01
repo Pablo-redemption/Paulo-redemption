@@ -4,10 +4,13 @@
   ],
   "ResourceOrderSettings":[
     {"name":"objBlock","order":1,"path":"objects/objBlock/objBlock.yy",},
+    {"name":"objInterative","order":3,"path":"objects/objInterative/objInterative.yy",},
     {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"bk_test","order":1,"path":"sprites/bk_test/bk_test.yy",},
     {"name":"sprBlock","order":2,"path":"sprites/sprBlock/sprBlock.yy",},
+    {"name":"sprDoor","order":5,"path":"sprites/sprDoor/sprDoor.yy",},
+    {"name":"Sprite14","order":2,"path":"sprites/Sprite14/Sprite14.yy",},
     {"name":"sprPlayerWalkD","order":1,"path":"sprites/sprPlayerWalkD/sprPlayerWalkD.yy",},
     {"name":"sprPlayerWalkL","order":1,"path":"sprites/sprPlayerWalkL/sprPlayerWalkL.yy",},
     {"name":"sprPlayerWalkR","order":1,"path":"sprites/sprPlayerWalkR/sprPlayerWalkR.yy",},
