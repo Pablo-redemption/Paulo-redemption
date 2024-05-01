@@ -8,6 +8,8 @@
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"bk_test","order":1,"path":"sprites/bk_test/bk_test.yy",},
     {"name":"sprBlock","order":2,"path":"sprites/sprBlock/sprBlock.yy",},
+    {"name":"Sprite13","order":1,"path":"sprites/Sprite13/Sprite13.yy",},
+    {"name":"PabloWalk_Right","order":2,"path":"sprites/PabloWalk_Right/PabloWalk_Right.yy",},
     {"name":"sprPlayerWalkD","order":1,"path":"sprites/sprPlayerWalkD/sprPlayerWalkD.yy",},
     {"name":"sprPlayerWalkL","order":1,"path":"sprites/sprPlayerWalkL/sprPlayerWalkL.yy",},
     {"name":"sprPlayerWalkR","order":1,"path":"sprites/sprPlayerWalkR/sprPlayerWalkR.yy",},
