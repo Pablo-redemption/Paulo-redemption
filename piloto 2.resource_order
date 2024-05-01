@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"objInteractive","order":2,"path":"objects/objInteractive/objInteractive.yy",},
+    {"name":"sprPlayerWalkU","order":1,"path":"sprites/sprPlayerWalkU/sprPlayerWalkU.yy",},
+    {"name":"sprDoor","order":4,"path":"sprites/sprDoor/sprDoor.yy",},
+    {"name":"sprTest2","order":1,"path":"sprites/sprTest2/sprTest2.yy",},
+    {"name":"sprBlock","order":2,"path":"sprites/sprBlock/sprBlock.yy",},
+    {"name":"sprPlayerWalkL","order":1,"path":"sprites/sprPlayerWalkL/sprPlayerWalkL.yy",},
+    {"name":"sprPlayerWalkD","order":1,"path":"sprites/sprPlayerWalkD/sprPlayerWalkD.yy",},
+    {"name":"sprPlayerWalkR","order":1,"path":"sprites/sprPlayerWalkR/sprPlayerWalkR.yy",},
+    {"name":"sprMessage","order":3,"path":"sprites/sprMessage/sprMessage.yy",},
+    {"name":"objDoor","order":4,"path":"objects/objDoor/objDoor.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"objBlock","order":1,"path":"objects/objBlock/objBlock.yy",},
+    {"name":"objMessage","order":3,"path":"objects/objMessage/objMessage.yy",},
+  ],
+}

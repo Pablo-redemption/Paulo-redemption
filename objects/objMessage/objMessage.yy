@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"objDoor",
+  "%Name":"objMessage",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"objDoor",
+  "name":"objMessage",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,13 +28,15 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[],
+  "properties":[
+    {"$GMObjectProperty":"","%Name":"message","filters":[],"listItems":[],"multiselect":false,"name":"message","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":2,},
+  ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprDoor",
-    "path":"sprites/sprDoor/sprDoor.yy",
+    "name":"sprMessage",
+    "path":"sprites/sprMessage/sprMessage.yy",
   },
   "spriteMaskId":null,
   "visible":false,
