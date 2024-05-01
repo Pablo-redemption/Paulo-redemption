@@ -1,14 +1,16 @@
 {
-  "FolderOrderSettings": [],
-  "ResourceOrderSettings": [
-    {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
-    {"name":"bk_test","order":1,"path":"sprites/bk_test/bk_test.yy",},
-    {"name":"sprPlayerWalkU","order":1,"path":"sprites/sprPlayerWalkU/sprPlayerWalkU.yy",},
-    {"name":"sprBlock","order":2,"path":"sprites/sprBlock/sprBlock.yy",},
-    {"name":"sprPlayerWalkL","order":1,"path":"sprites/sprPlayerWalkL/sprPlayerWalkL.yy",},
-    {"name":"sprPlayerWalkD","order":1,"path":"sprites/sprPlayerWalkD/sprPlayerWalkD.yy",},
-    {"name":"sprPlayerWalkR","order":1,"path":"sprites/sprPlayerWalkR/sprPlayerWalkR.yy",},
-    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+  "FolderOrderSettings":[
+    {"name":"Sprites_Pablo","order":3,"path":"folders/Sprites/Sprites_Pablo.yy",},
+  ],
+  "ResourceOrderSettings":[
     {"name":"objBlock","order":1,"path":"objects/objBlock/objBlock.yy",},
+    {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"bk_test","order":1,"path":"sprites/bk_test/bk_test.yy",},
+    {"name":"sprBlock","order":2,"path":"sprites/sprBlock/sprBlock.yy",},
+    {"name":"sprPlayerWalkD","order":1,"path":"sprites/sprPlayerWalkD/sprPlayerWalkD.yy",},
+    {"name":"sprPlayerWalkL","order":1,"path":"sprites/sprPlayerWalkL/sprPlayerWalkL.yy",},
+    {"name":"sprPlayerWalkR","order":1,"path":"sprites/sprPlayerWalkR/sprPlayerWalkR.yy",},
+    {"name":"sprPlayerWalkU","order":1,"path":"sprites/sprPlayerWalkU/sprPlayerWalkU.yy",},
   ],
 }
