@@ -25,10 +25,10 @@
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Character","folderPath":"folders/Sprites/Character.yy","name":"Character","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Down","folderPath":"folders/Sprites/Character/Down.yy","name":"Down","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Pablo_WalkLeft","folderPath":"folders/Sprites/Pablo_WalkLeft.yy","name":"Pablo_WalkLeft","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Left","folderPath":"folders/Sprites/Character/Left.yy","name":"Left","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Right","folderPath":"folders/Sprites/Character/Right.yy","name":"Right","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Up","folderPath":"folders/Sprites/Character/Up.yy","name":"Up","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Pablo_WalkLeft","folderPath":"folders/Sprites/Pablo_WalkLeft.yy","name":"Pablo_WalkLeft","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
@@ -36,7 +36,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.2.0.132",
+    "IDEVersion":"2024.4.0.137",
   },
   "name":"piloto 2",
   "resources":[
